@@ -8,7 +8,7 @@
 **Faisal-IG-Auth-Research** is a sophisticated security research tool designed to analyze and test web authentication flows. It specifically explores how modern platforms like Instagram handle CSRF tokens, session persistence, and automated request filtering.
 
 <p align="center">
-  <img src="https://25.media.tumblr.com/tumblr_m81w0wD6SX1qltfc4o1_500.gif" width="400" alt="Cyber Security GIF">
+  <img src="https://25.media.tumblr.com/tumblr_m81w0wD6SX1qltfc4o1_500.gif" width="500" alt="Cyber Security GIF">
 </p>
 
 ## 🤯 OMG! Features / المميزات
@@ -37,7 +37,7 @@ When you run the script, you'll be greeted with this:
 
 ## 📸 System Status / حالة النظام
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycnJ4OHRlZ2hzaTNxYWRvMmwzbDh4czJ3ZXA0cjYyMG45amdlNDBqZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QZOxRp5tZTemNQzpgc/giphy.gif" width="450" alt="Hacking Progress">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycnJ4OHRlZ2hzaTNxYWRvMmwzbDh4czJ3ZXA0cjYyMG45amdlNDBqZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QZOxRp5tZTemNQzpgc/giphy.gif" width="500" alt="Hacking Progress">
 </p>
 
 ## 🚀 Installation & Usage / طريقة الاستخدام
