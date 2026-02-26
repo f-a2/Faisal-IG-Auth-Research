@@ -7,7 +7,9 @@
 ## 👋 About This Project / حول المشروع
 **Faisal-IG-Auth-Research** is a sophisticated security research tool designed to analyze and test web authentication flows. It specifically explores how modern platforms like Instagram handle CSRF tokens, session persistence, and automated request filtering.
 
-هذا المشروع هو أداة بحث أمني متطورة مصممة لتحليل واختبار تدفق عمليات التحقق في الويب، مع التركيز على فهم كيفية تعامل المنصات مع مفاتيح الأمان وجلسات الاتصال.
+<p align="center">
+  <img src="https://25.media.tumblr.com/tumblr_m81w0wD6SX1qltfc4o1_500.gif" width="400" alt="Cyber Security GIF">
+</p>
 
 ## 🤯 OMG! Features / المميزات
 - **Dynamic Token Extraction:** Automatically scrapes CSRF tokens to bypass basic security blocks.
@@ -33,12 +35,10 @@ When you run the script, you'll be greeted with this:
     #######################################################
 ```
 
-## 📸 Visual Representation
-Here's how the authentication flow and the script logic operate:
-
-
-
-, [Success], and [Rate Limited]]
+## 📸 System Status / حالة النظام
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycnJ4OHRlZ2hzaTNxYWRvMmwzbDh4czJ3ZXA0cjYyMG45amdlNDBqZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QZOxRp5tZTemNQzpgc/giphy.gif" width="450" alt="Hacking Progress">
+</p>
 
 ## 🚀 Installation & Usage / طريقة الاستخدام
 
@@ -65,7 +65,6 @@ Here's how the authentication flow and the script logic operate:
 
 ## ⚠️ Disclaimer
 **Educational Purposes Only.** This tool is created to help developers and security researchers understand authentication vulnerabilities. The developer is not responsible for any misuse or illegal activities.
-**للأغراض التعليمية فقط.** هذا السكربت صُمم لمساعدة المبرمجين والباحثين الأمنيين على فهم ثغرات التحقق. المطور غير مسؤول عن أي استخدام غير قانوني.
 
 ## 🤝 Contact
 Developed by **Faisal**. Feel free to star ⭐ this repository if you find it helpful!
